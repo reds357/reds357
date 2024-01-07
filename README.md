@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @reds357
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning python
+- 👀 I work in IT
+- 🌱 Python, GIT
