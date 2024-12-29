@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @reds357
+- 👋 Hi, I’m @noctua
 - 👀 I work in IT
 - 🌱 Python, GIT
